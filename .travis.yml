@@ -1,11 +1,12 @@
 language: ruby
+cache: bundler
 rvm:
 - 2.4.1
 install:
 - ./bin/setup
 script:
 - jekyll build --trace
-- htmlproofer _site --disable-external
+- htmlproofer _site --disable-external --assume-extension=.html
 
 branches:
   only:
