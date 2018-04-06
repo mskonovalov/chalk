@@ -12,8 +12,6 @@ COMMIT_MESSAGE=$(git log -1 --pretty=%B)
 
 echo "Started deploying"
 
-git checkout develop
-
 # Checkout master branch.
 if [ `git branch | grep master` ]
 then
