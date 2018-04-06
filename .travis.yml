@@ -6,7 +6,7 @@ install:
 - ./bin/setup
 script:
 - jekyll build --trace
-- htmlproofer _site --disable-external --assume-extension=.html
+- htmlproofer _site --disable-external --only-4xx --assume-extension
 
 branches:
   only:
