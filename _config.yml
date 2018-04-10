@@ -10,7 +10,7 @@ url: https://mskonovalov.github.io
 
 about_enabled: false # Change to true if you wish to show an icon in the navigation that redirects to the about page
 baseurl: # Set if blog doesn't sit at the root of the domain (format: /blog)
-discus_identifier: # Add your Disqus identifier
+discus_identifier: mskonovalov # Add your Disqus identifier
 ga_analytics: # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
@@ -19,10 +19,10 @@ social:
   dribbble: # Add your Dribbble handle
   facebook: # Add your Facebook handle
   flickr: # Add your Flickr handle
-  github: # Add your GitHub handle
-  linkedin: # Add your LinkedIn handle
+  github: mskonovalov # Add your GitHub handle
+  linkedin: mskonovalov # Add your LinkedIn handle
   twitter: # Add your Twitter handle
-  email: # Add your Email address
+  email: mskonovalov@gmail.com # Add your Email address
   bitcoin: # Add your Bitcoin link or address
   ethereum: # Add your Ethereum link or address
   gitlab: # Add your GitLab handle
@@ -30,13 +30,13 @@ social:
   twitch: # Add your Twitch handle
   discord: # Add you Discord server invitation ID
   tumblr: # Add your Tumblr handle
-  bitbucket: # Add your Bitbucket handle
+  bitbucket: mskonovalov # Add your Bitbucket handle
   docker: # Add your Docker Hub handle
   instagram: # Add your Instagram handle
   keybase: # Add your Keybase handle
   medium: # Add your Medium handle
   spotify: # Add your Spotify handle
-  stackoverflow: # Add your Stack Overflow ID number
+  stackoverflow: 2602998 # Add your Stack Overflow ID number
   steam: # Add your Steam handle
 
 
