@@ -1,4 +1,0 @@
----
-slug: sydney
-name: Sydney
----

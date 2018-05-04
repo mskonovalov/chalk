@@ -1,4 +1,0 @@
----
-slug: money
-name: Money
----
